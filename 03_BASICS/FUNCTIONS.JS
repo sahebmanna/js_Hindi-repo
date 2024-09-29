@@ -49,3 +49,4 @@ function returnSecondValue(arr){
 }
 console.log(returnSecondValue(arr));
 
+
